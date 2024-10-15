@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quantum NFL Notes/Quantum Graphs/Original Quantum Experiments -> Graph Theory paper.md",
+                "file": "Quantum NFL Notes/Quantum Graphs/Quantum Random Networks.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quantum NFL Notes/Quantum Graphs/Original Quantum Experiments -> Graph Theory paper.md",
+                "file": "Quantum NFL Notes/Quantum Graphs/Quantum Random Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quantum NFL Notes/Quantum Graphs/Original Quantum Experiments -> Graph Theory paper.md",
+                "file": "Quantum NFL Notes/Quantum Graphs/Quantum Random Networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quantum NFL Notes/Quantum Graphs/Original Quantum Experiments -> Graph Theory paper.md"
+                "file": "Quantum NFL Notes/Quantum Graphs/Quantum Random Networks.md"
               }
             }
           },
@@ -157,9 +157,11 @@
   },
   "active": "bc7119acec801487",
   "lastOpenFiles": [
-    "Quantum NFL Notes/Quantum Graphs/Quantum Graphs.md",
-    "Quantum NFL Notes/Quantum Graphs/Original Quantum Experiments -> Graph Theory paper.md",
+    "Quantum NFL Notes/Quantum Graphs/Symmetries in Quantum Networks.md",
+    "Quantum NFL Notes/Quantum Graphs/Quantum Random Networks.md",
     "Quantum NFL Notes/Quantum Graphs/Community Detection in Quantum Complex Networks.md",
+    "Quantum NFL Notes/Quantum Graphs/Original Quantum Experiments -> Graph Theory paper.md",
+    "Quantum NFL Notes/Quantum Graphs/Quantum Graphs.md",
     "Quantum NFL Notes/Quantum Graphs/Quantum Experiments->Graph Theory.md",
     "Quantum NFL Notes/Community Detection Notes.md"
   ]
