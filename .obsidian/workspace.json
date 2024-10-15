@@ -120,13 +120,21 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "498ff9f8e6a4a1fc",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -135,9 +143,10 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bc7119acec801487",
+  "active": "1cc4516d1c782c33",
   "lastOpenFiles": []
 }
