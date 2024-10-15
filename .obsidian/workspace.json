@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quantum NFL Notes/Quantum Graphs/Quantum Random Networks.md",
+                "file": "Analogical Reasoning/Emergent Analogical Reasoning in LLMs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quantum NFL Notes/Quantum Graphs/Quantum Random Networks.md",
+                "file": "Analogical Reasoning/Emergent Analogical Reasoning in LLMs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quantum NFL Notes/Quantum Graphs/Quantum Random Networks.md",
+                "file": "Analogical Reasoning/Emergent Analogical Reasoning in LLMs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quantum NFL Notes/Quantum Graphs/Quantum Random Networks.md"
+                "file": "Analogical Reasoning/Emergent Analogical Reasoning in LLMs.md"
               }
             }
           },
@@ -157,8 +157,11 @@
   },
   "active": "bc7119acec801487",
   "lastOpenFiles": [
-    "Quantum NFL Notes/Quantum Graphs/Symmetries in Quantum Networks.md",
     "Quantum NFL Notes/Quantum Graphs/Quantum Random Networks.md",
+    "Analogical Reasoning/Emergent Analogical Reasoning in LLMs.md",
+    "Analogical Reasoning",
+    "LLM Distillation",
+    "Quantum NFL Notes/Quantum Graphs/Symmetries in Quantum Networks.md",
     "Quantum NFL Notes/Quantum Graphs/Community Detection in Quantum Complex Networks.md",
     "Quantum NFL Notes/Quantum Graphs/Original Quantum Experiments -> Graph Theory paper.md",
     "Quantum NFL Notes/Quantum Graphs/Quantum Graphs.md",
