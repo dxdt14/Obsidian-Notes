@@ -30,5 +30,18 @@
 - They focus analysis on isolated quantum system governed by Hamiltonian $H$.
 	- $$H=\sum_{ij}H_{ij}\ket{i} \bra{j} $$
 - $H_{ii}$ denotes energy of state $\ket{i}$ 
-- If $\ket{i}$ corresponds to a particle localized at a spatially distinct node $i$, the Hamiltonian describes a sinless single-particle walk
-- 
+- If $\ket{i}$ corresponds to a particle localized at a spatially distinct node $i$, the Hamiltonian describes a spinless single-particle walk
+	- Energy landscape give by the diagonal elements
+	- transition amplitudes by off-diagonal elements
+- Any quantum evolution can be viewed in this picture $\implies$ scenario is general
+### Inter-community transport
+- In classical networks, community detection is often based on flow of probability thorugh network during classical random walk
+	- Try to minimize probability flow/transport between communities
+- Natural approach to quantum comm. detection is to consider flow of probability during a continuous-time quantum walk and see *change* in the probability of observing walker w/in each comm
+	- $$ T_{x}(t) = \sum_{A\in X}T_{A}(t)=\sum_{A\in X} \frac{1}{2}|p_{A}\{ \rho(t) \} - p_{A}\{ \rho(0) \}| $$
+		- $\rho(t)=e^{-iHt}\rho(0)e^{iHt}$ 
+		- $p_{A}\{ \rho \}=\text{tr} \left\{  \prod_{A}\rho  \right\}$
+		- $\prod_{A}=\sum_{i\in A}\ket{i}\bra{i}$ is the projector onto the $A$ subspace
+- Can then define a closeness function based on $T_{X}(t)$.
+### Intra-Community fidelity
+- Can also define a closeness measure based on the change in projection of the quantum state in the community subspaces using squared fidelity.

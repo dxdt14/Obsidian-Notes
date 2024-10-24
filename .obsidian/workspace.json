@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quantum NFL Notes/Quantum Graphs/Community Detection in Quantum Complex Networks.md",
+                "file": "LLM Distillation/Rethinking Kullback-Leibler Divergence in Knowledge Distillation for Large Language Models.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Rethinking Kullback-Leibler Divergence in Knowledge Distillation for Large Language Models"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,14 +68,17 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "df000523228b73b0",
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quantum NFL Notes/Quantum Graphs/Community Detection in Quantum Complex Networks.md",
+                "file": "LLM Distillation/Rethinking Kullback-Leibler Divergence in Knowledge Distillation for Large Language Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +102,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Rethinking Kullback-Leibler Divergence in Knowledge Distillation for Large Language Models"
             }
           },
           {
@@ -102,10 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quantum NFL Notes/Quantum Graphs/Community Detection in Quantum Complex Networks.md",
+                "file": "LLM Distillation/Rethinking Kullback-Leibler Divergence in Knowledge Distillation for Large Language Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Rethinking Kullback-Leibler Divergence in Knowledge Distillation for Large Language Models"
             }
           },
           {
@@ -116,7 +129,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quantum NFL Notes/Quantum Graphs/Community Detection in Quantum Complex Networks.md"
-              }
+                "file": "LLM Distillation/Rethinking Kullback-Leibler Divergence in Knowledge Distillation for Large Language Models.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Rethinking Kullback-Leibler Divergence in Knowledge Distillation for Large Language Models"
             }
           },
           {
@@ -134,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -157,15 +176,19 @@
   },
   "active": "bc7119acec801487",
   "lastOpenFiles": [
-    "Quantum NFL Notes/Quantum Graphs/Quantum Experiments->Graph Theory.md",
-    "Quantum NFL Notes/Quantum Graphs/Original Quantum Experiments -> Graph Theory paper.md",
+    "LLM Distillation/Screen Shot 2024-10-23 at 5.00.17 PM.png",
+    "LLM Distillation/Screen Shot 2024-10-23 at 4.52.01 PM.png",
+    "LLM Distillation/Distilling the Knowledge in a Neural Network.md",
+    "LLM Distillation/Rethinking Kullback-Leibler Divergence in Knowledge Distillation for Large Language Models.md",
     "Quantum NFL Notes/Quantum Graphs/Community Detection in Quantum Complex Networks.md",
+    "Quantum NFL Notes/Quantum Graphs/Original Quantum Experiments -> Graph Theory paper.md",
+    "Quantum NFL Notes/Quantum Graphs/Quantum Experiments->Graph Theory.md",
+    "Quantum NFL Notes/Community Detection Notes.md",
     "Analogical Reasoning/Emergent Analogical Reasoning in LLMs.md",
     "Quantum NFL Notes/Quantum Graphs/Quantum Random Networks.md",
     "Analogical Reasoning",
     "LLM Distillation",
     "Quantum NFL Notes/Quantum Graphs/Symmetries in Quantum Networks.md",
-    "Quantum NFL Notes/Quantum Graphs/Quantum Graphs.md",
-    "Quantum NFL Notes/Community Detection Notes.md"
+    "Quantum NFL Notes/Quantum Graphs/Quantum Graphs.md"
   ]
 }
