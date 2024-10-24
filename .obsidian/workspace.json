@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "df000523228b73b0",
@@ -176,11 +175,12 @@
   },
   "active": "bc7119acec801487",
   "lastOpenFiles": [
+    "LLM Distillation/Distilling the Knowledge in a Neural Network.md",
+    "Quantum NFL Notes/Quantum Graphs/Community Detection in Quantum Complex Networks.md",
+    "Quantum NFL Notes/Quantum Graphs/Complex Quantum Networks.md",
+    "LLM Distillation/Rethinking Kullback-Leibler Divergence in Knowledge Distillation for Large Language Models.md",
     "LLM Distillation/Screen Shot 2024-10-23 at 5.00.17 PM.png",
     "LLM Distillation/Screen Shot 2024-10-23 at 4.52.01 PM.png",
-    "LLM Distillation/Distilling the Knowledge in a Neural Network.md",
-    "LLM Distillation/Rethinking Kullback-Leibler Divergence in Knowledge Distillation for Large Language Models.md",
-    "Quantum NFL Notes/Quantum Graphs/Community Detection in Quantum Complex Networks.md",
     "Quantum NFL Notes/Quantum Graphs/Original Quantum Experiments -> Graph Theory paper.md",
     "Quantum NFL Notes/Quantum Graphs/Quantum Experiments->Graph Theory.md",
     "Quantum NFL Notes/Community Detection Notes.md",
