@@ -1,5 +1,6 @@
 [Graph Theory -> Quantum States Paper](https://arxiv.org/abs/1812.09558)
 builds off [[Original Quantum Experiments -> Graph Theory paper]]
+
 ## Abstract
 - Exploits connections between graph theory and quantum experiments to give procedure for creation of plethora of entangled quantum states
 - May help me draw connections between entangled "ground truth" state and community detection
