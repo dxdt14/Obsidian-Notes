@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"7a831a96c9456f12","type":"text","text":"NFL Theorem (quantum sup. learniing)\nGiven training data learn unitary that maps between input and output [[NFL Theorem Quantum Supervised Learning]]","x":-274,"y":-280,"width":314,"height":180},
+		{"id":"8ce087e8264a32e5","type":"text","text":"| Training data | = 1 for comm. detection?","x":100,"y":-207,"width":250,"height":75},
+		{"id":"e24fb46660692165","type":"text","text":"NFL Theorem (for quantum comm. detection):\nlearn unitary that maps given graph (i.e. state) to the ground truth (i.e. ground truth state)","x":-220,"y":-20,"width":285,"height":150},
+		{"id":"c9e9f88dec73cfa7","type":"text","text":"Will this end up showing that any algorithm that finds the unitary to map 1 state to another (finds the dynamics of the system) that performs well in one situation must perform poorly in another?","x":140,"y":25,"width":320,"height":175}
+	],
+	"edges":[
+		{"id":"94cc2ec1f3485eca","fromNode":"7a831a96c9456f12","fromSide":"bottom","toNode":"e24fb46660692165","toSide":"top"},
+		{"id":"34a4ab245a869319","fromNode":"8ce087e8264a32e5","fromSide":"left","toNode":"7a831a96c9456f12","toSide":"right"},
+		{"id":"d145c78046590685","fromNode":"e24fb46660692165","fromSide":"right","toNode":"c9e9f88dec73cfa7","toSide":"left"}
+	]
+}
